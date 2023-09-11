@@ -10,4 +10,4 @@
   <a><img height="20" alt="nodejs" src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"></a> 
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solitude9377)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harlotte7)](https://github.com/anuraghazra/github-readme-stats)
